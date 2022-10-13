@@ -1,0 +1,10 @@
+{
+  "name": "introducao_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Patrick Nekel <patrick@kenzie.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
